@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 My name is Sasa</h1>
 
-<h3 align="center">React Front End Developer</h3>
+<h3 align="center">React Front End Web Developer</h3>
 
 <p align="left">As a proficient and dedicated React front-end developer I have a deep understanding of React and the latest web development technologies and tools, and I am committed to delivering high-quality work to all of my clients. I am passionate about my work and I always strive to exceed my clients expectations and ensure that their websites and applications are visually stunning, user-friendly, and meet all of their technical requirements.</p> 
 <p align="left">My specialty lies in working with React.js, TypeScript, Tailwind, JavaScript, and front-end development overall. I have been working on React projects since 2019 and have consistently delivered successful results. I am always eager to learn and grow, constantly seeking out new challenges to enhance my expertise which allowed me to stay up-to-date with the latest industry trends.</p> 
