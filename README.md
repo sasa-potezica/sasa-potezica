@@ -9,7 +9,7 @@
 * 🖥️  See my portfolio at [sasapotezica.pro](http://sasapotezica.pro)
 * ✉️  You can contact me at [sasapotezica.contact@gmail.com](mailto:sasapotezica.contact@gmail.com)
 * 🚀  I'm currently working on [CryptoBase Exchange](http://sp-cryptobase-exchange.netlify.app/)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Three.js
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
