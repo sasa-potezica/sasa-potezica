@@ -6,8 +6,8 @@
 <p align="justify">My specialty lies in working with React, Redux, TypeScript, Tailwind, JavaScript, Next.js and front-end development overall. I have been working on React projects since 2019 and have consistently delivered successful results. I am always eager to learn and grow, constantly seeking out new challenges to enhance my expertise which allowed me to stay up-to-date with the latest industry trends.</p> 
 <p align="justify">My fluency in English at a native level, combined with my experience in effectively working with remote teams, allows me to communicate and contribute to any project seamlessly. My technical proficiency, comprehensive knowledge, and team-oriented attitude make me a valuable asset to any organization seeking to utilize the latest front-end development tools and techniques to accomplish their objectives.</p>
 
-* 🖥️  See my portfolio at [sasapotezica.pro](http://sasapotezica.pro)
-* ✉️  You can contact me at [sasapotezica.contact@gmail.com](mailto:sasapotezica.contact@gmail.com)
+* 🖥️  See my portfolio at [sasapotezica.pro](http://sasapotezica.netlify.app)
+* ✉️  You can contact me at [sasapotezica.contact@gmail.com](mailto:sasapotezica@yahoo.com)
 * 🚀  I'm currently working on [CryptoBase Exchange](http://sp-cryptobase-exchange.netlify.app/)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on projects
