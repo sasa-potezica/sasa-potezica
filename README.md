@@ -7,7 +7,7 @@
 <p align="justify">My fluency in English at a native level, combined with my experience in effectively working with remote teams, allows me to communicate and contribute to any project seamlessly. My technical proficiency, comprehensive knowledge, and team-oriented attitude make me a valuable asset to any organization seeking to utilize the latest front-end development tools and techniques to accomplish their objectives.</p>
 
 * 🖥️  See my portfolio at [sasapotezica.pro](http://sasapotezica.netlify.app)
-* ✉️  You can contact me at [sasapotezica.contact@gmail.com](mailto:sasapotezica@yahoo.com)
+* ✉️  You can contact me at [sasapotezica@yahoo.com](mailto:sasapotezica@yahoo.com)
 * 🚀  I'm currently working on [CryptoBase Exchange](http://sp-cryptobase-exchange.netlify.app/)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on projects
